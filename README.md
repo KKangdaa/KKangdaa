@@ -3,7 +3,7 @@
   **항상 더 좋은 코드가 무엇인지 생각하고 끊임없이 공부하며 매일 성장하는 주니어 프론트엔드 개발자 강다현** 입니다.
 <hr />
 
-#### 💡 Tech Stack
+### 💡 Tech Stack
 
 ##### Front-end
 
@@ -44,7 +44,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=320100)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=011d34)
 
-#### 💡 Studying
+### 💡 Studying
 
 ![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![NaverCloud](https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?style=flat-square&logo=Naver&logoColor=white)
