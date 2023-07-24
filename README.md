@@ -27,8 +27,8 @@
 
 ##### Back-end
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
 ##### Tools
@@ -39,10 +39,10 @@
 
 ##### Design
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=FF61F6)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=320100)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=011d34)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=320100)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=011d34)
 
 <br />
 
@@ -50,6 +50,6 @@
 
 ![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![NaverCloud](https://img.shields.io/badge/Naver%20Cloud-03C75A.svg?style=flat-square&logo=Naver&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 </div>
